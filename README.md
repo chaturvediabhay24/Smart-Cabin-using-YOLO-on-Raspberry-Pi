@@ -5,9 +5,14 @@
 
 ###Images of final black box
 
-![Black Box(doc/f1.jpeg)](doc/f1.jpeg)
-![Black Box(doc/f2.jpeg)](doc/f1.jpeg)
-![Black Box(doc/f4.jpeg)](doc/f1.jpeg)
+
+
+<p align="center">
+  <img src="doc/f1.jpeg" width="350" title="hover text">
+  <img src="doc/f1.jpeg" width="350" alt="accessibility text">
+  <img src="doc/f4.jpeg" width="350" alt="accessibility text">
+</p>
+
 
 ###Working Video
 
