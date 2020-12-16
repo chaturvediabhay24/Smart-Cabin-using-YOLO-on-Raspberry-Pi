@@ -5,10 +5,11 @@
 
 ###Images of final black box
 
-![Black Box](doc/f1.jpg)
-![Black Box](doc/f2.jpg)
-![Black Box](doc/f4.jpg)
-![Black Box](doc/f1.jpg)
+![Black Box(doc/f1.jpg)](doc/f1.jpg)
+![Black Box(doc/f2.jpg)](doc/f1.jpg)
+![Black Box(doc/f4.jpg)](doc/f1.jpg)
+![Black Box(doc/working.gif)](doc/f1.jpg)
+![Black Box(doc/working.gif)](doc/f1.jpg)
 
 ###Working Video
 
